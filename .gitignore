@@ -1,0 +1,4 @@
+data/
+calendario/ler-calendario
+*.pre-*
+.DS_Store

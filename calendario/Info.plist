@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key><string>local.painel-estudos.calendario</string>
+  <key>CFBundleName</key><string>Painel de Estudos</string>
+  <key>NSCalendarsFullAccessUsageDescription</key><string>O Painel de Estudos lê sua agenda (só leitura) para calcular quantas horas livres você tem por dia.</string>
+  <key>NSCalendarsUsageDescription</key><string>O Painel de Estudos lê sua agenda (só leitura) para calcular quantas horas livres você tem por dia.</string>
+</dict>
+</plist>
